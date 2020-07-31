@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1595814301 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"LinkedList.h"
+
+1595042597 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1595042606 c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\utn.h
+
+1595803128 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595799063 c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\linkedlist.h
+
+1595814417 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\pais.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Pais.h"
+	"UTN.h"
+
+1595814316 c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\controller.h
+
+1595814246 c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\pais.h
+
+1595814536 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"UTN.h"
+	"Pais.h"
+	"parser.h"
+	<ctype.h>
+
+1533133022 c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\parser.h
+
+1595799034 source:c:\users\usuario\desktop\escritura y lectora de archivos\linkedlist2 prueba 1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"LinkedList.h"
+	"UTN.h"
+
+1595814536 source:c:\users\usuario\desktop\linkedlist2 prueba 1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"UTN.h"
+	"Pais.h"
+	"parser.h"
+	<ctype.h>
+
+1595799063 c:\users\usuario\desktop\linkedlist2 prueba 1\linkedlist.h
+
+1595042606 c:\users\usuario\desktop\linkedlist2 prueba 1\utn.h
+
+1595814246 c:\users\usuario\desktop\linkedlist2 prueba 1\pais.h
+
+1533133022 c:\users\usuario\desktop\linkedlist2 prueba 1\parser.h
+
+1595803128 source:c:\users\usuario\desktop\linkedlist2 prueba 1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595814301 source:c:\users\usuario\desktop\linkedlist2 prueba 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"LinkedList.h"
+
+1595799034 source:c:\users\usuario\desktop\linkedlist2 prueba 1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"LinkedList.h"
+	"UTN.h"
+
+1595042597 source:c:\users\usuario\desktop\linkedlist2 prueba 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1596154812 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"UTN.h"
+	"Pais.h"
+	"parser.h"
+	<ctype.h>
+
+1596147233 c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\linkedlist.h
+
+1595042606 c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\utn.h
+
+1596155069 c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\pais.h
+	"LinkedList.h"
+
+1596153929 c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\parser.h
+
+1596154711 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596154122 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\pais.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Pais.h"
+	"UTN.h"
+
+1596154552 c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\controller.h
+
+1596154688 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"LinkedList.h"
+	"UTN.h"
+
+1596154624 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1596155069 source:c:\users\usuario\desktop\recuperatorio 2parcial\linkedlist2 prueba 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Pais.h"
+	"UTN.h"
+
